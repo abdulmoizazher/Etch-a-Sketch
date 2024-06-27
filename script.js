@@ -18,7 +18,8 @@ for(let  i = 1; i <= n**2 ; i++){
 }
 }
 
-formation(15)
+formation(15);
+paint();
 
 function paint (){
     let screen = document.getElementsByClassName("screen");

@@ -17,7 +17,6 @@ body{
         height: 600px;
         width: 600px;
         display: flex;
-        border-radius: 20px;
         border-color: black;
         border: 20px;
         border: solid;
@@ -34,3 +33,15 @@ body{
     
 }
 
+#button{
+    margin-right: 50px;
+    height: 75px;
+    width: 90px;
+    background-color: beige;
+    border-radius: 20%;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+
+
+}
